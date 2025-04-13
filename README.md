@@ -15,6 +15,9 @@ List of .DLLs included
 |  Microsoft.CodeAnalysis.Scripting  | Microsoft.CodeAnalysis.Scripting.dll  |
 | Microsoft.CodeAnalysis.Csharp  | Microsoft.CodeAnalysis.Csharp.dll  |
 | Microsoft.CodeAnalysis.Csharp.Scripting  | Microsoft.CodeAnalysis.Csharp.Scripting.dll  |
+| System.Collections.Immutable  | System.Collections.Immutable.dll  |
+| System.Reflection.Metadata  | System.Reflection.Metadata.dll  |
+| System.Runtime.CompilerServices.Unsafe  | System.Runtime.CompilerServices.Unsafe.dll  |
 
 # Personal Notes
 
