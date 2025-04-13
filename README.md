@@ -25,7 +25,7 @@ Fuck Microsoft - Microsoft.CodeAnalysis.Scripting.dll had been removed from ever
 
 # Installation
 
-Either install this reposity as a .ZIP, or install as .Unitypackage from (releases page link here)
+Either install this repository as a .ZIP, or install as .Unitypackage from (releases page link here)
 
 # Usage Example
 
