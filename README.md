@@ -25,8 +25,7 @@ Fuck Microsoft - Microsoft.CodeAnalysis.Scripting.dll had been removed from ever
 
 # Installation
 
-Either install this repository as a .ZIP, or install as .Unitypackage from (releases page link here)
-
+Either install this repository as a .ZIP, or install as .Unitypackage from the (Releases -page)[https://github.com/Sevforev/Unity-Roslyn/releases/tag/Roslyn]
 # Usage Example
 
 # Documentation
