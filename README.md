@@ -5,6 +5,17 @@ All the dependencies required to use .NET Roslyn in Unity (Netstandard 2.0)
 
 This reposity has all the .DLLs required for the Roslyn .NET compiler in Unity, as getting these is a damn struggle. All Copyright belongs to Microsoft; https://github.com/dotnet/roslyn
 
+# Included
+
+List of .DLLs included
+
+| Name | File |
+| --------------- | --------------- |
+|  Microsoft.CodeAnalysis  | Microsoft.CodeAnalysis.dll  |
+|  Microsoft.CodeAnalysis.Scripting  | Microsoft.CodeAnalysis.Scripting.dll  |
+| Microsoft.CodeAnalysis.Csharp  | Microsoft.CodeAnalysis.Csharp.dll  |
+| Microsoft.CodeAnalysis.Csharp.Scripting  | Microsoft.CodeAnalysis.Csharp.Scripting.dll  |
+
 # Personal Notes
 
 Fuck Microsoft - Microsoft.CodeAnalysis.Scripting.dll had been removed from every release of Microsoft.CodeAnalysis.Scripting on NuGet, which meant that I had to spend two hours scavenging the internet for it. Hopefully this repository spares someone else the trouble.
