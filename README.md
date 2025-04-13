@@ -7,7 +7,7 @@ This reposity has all the .DLLs required for the Roslyn .NET compiler in Unity, 
 
 # Personal Notes
 
-Fuck Microsoft - Microsoft.CodeAnalysis.Scripting.dll had been removed from every release of Microsoft.CodeAnalysis.Scripting on NuGet, which meant that I had to spend two hours scavenging the internet for it. Goddamn.
+Fuck Microsoft - Microsoft.CodeAnalysis.Scripting.dll had been removed from every release of Microsoft.CodeAnalysis.Scripting on NuGet, which meant that I had to spend two hours scavenging the internet for it. Hopefully this repository spares someone else the trouble. Goddamn.
 
 # Installation
 
